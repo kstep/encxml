@@ -1,0 +1,9 @@
+[package]
+
+name = "encxml"
+version = "0.0.1"
+authors = ["Konstantin Stepanov <konstantin.stepanov@viaden.com>"]
+
+[dependencies]
+xml-rs = "*"
+rustc-serialize = "*"
